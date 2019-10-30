@@ -6,3 +6,7 @@ while max(lis) == z:
 
 print(max(lis))
 
+print(max(lis))
+
+
+
